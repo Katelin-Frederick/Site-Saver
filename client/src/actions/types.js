@@ -1,0 +1,8 @@
+export const GET_ERRORS = 'GET_ERRORS'
+export const SET_CURRENT_USER = 'SET_CURRENT_USER'
+export const PROFILE_LOADING = 'PROFILE_LOADING'
+export const CLEAR_CURRENT_PROFILE = 'CLEAR_CURRENT_PROFILE'
+export const DELETE_SITE = 'DELETE_SITES'
+export const ADD_SITE = 'ADD_SITE'
+export const UPDATE_SITE = 'UPDATE_SITE'
+export const GET_PROFILE = 'GET_PROFILE'
