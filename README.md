@@ -45,6 +45,7 @@ npm run client
 
 ## Technologies
 * React
+* Redux
 * Express
 * Node.js
 * MongoDB
